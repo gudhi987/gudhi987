@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding. 
 - 🌱 I’m currently learning cpp and ml. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 msg me on Instagram jagadeesh143_balayya
+- 📫 msg me on Instagram jagadeesh_gudhi
 
 <!---
 gudhi987/gudhi987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
