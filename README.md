@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gudhi987&label=Profile%20views&color=0e75b6&style=flat" alt="gudhi987" /> </p>
 
-- 🔭 I’m currently working on [REST Countries API with color theme switcher](https://rest-countries-api-frontendmentor-sol.netlify.app)
+- 🔭 I’m currently working on [CustomGPT - An UI for LLM interactions](https://github.com/gudhi987/CustomGPT)
 
 - 🌱 I’m currently learning **ai technologies like RAG, RAFT and frontend webdev library React.**
 
